@@ -4,7 +4,7 @@
 并实现了利用各种各种工具对数据库的增删改查
 设置了两个账户  
 管理员：账户blog@test.com 密码blog  
-普通账户：账户blog@test.com 密码blog  
+普通账户：账户blog2@test.com 密码blog2  
 
 登陆界面
 --
